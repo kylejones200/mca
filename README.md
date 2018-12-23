@@ -1,0 +1,2 @@
+# mca
+multiple correspondence analysis
